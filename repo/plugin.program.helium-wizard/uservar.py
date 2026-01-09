@@ -87,14 +87,14 @@ CONTACTFANART = 'http://'
 #        Auto Update For Those With No Repo             #
 #########################################################
 # Enable Auto Update 'Yes' or 'No'
-AUTOUPDATE = 'No'
+AUTOUPDATE = 'Yes'
 #########################################################
 
 #########################################################
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'No'
+AUTOINSTALL = 'Yes'
 # Addon ID for the repository
 REPOID = 'repository.heliummarcos'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
