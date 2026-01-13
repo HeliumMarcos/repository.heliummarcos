@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.heliummarcos" name="Repo-HeliumMarcos" version="1.0.1" provider-name="Helium Marcos">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+    <extension point="xbmc.addon.repository" name="Repo-HeliumMarcos">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/HeliumMarcos/repository.heliummarcos/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/HeliumMarcos/repository.heliummarcos/master/repo/zips/addons.xml.md5</checksum>
